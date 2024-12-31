@@ -1,4 +1,5 @@
 {
+  "files.autoSave": "afterDelay",
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#16517c",
     "activityBar.activeBorder": "#360a23",
@@ -9,5 +10,7 @@
     "activityBarBadge.foreground": "#e7e7e7",
     "tab.activeBorder": "#16517c"
   },
-  "peacock.color": "#0e3551"
+  "cSpell.words": [
+    "chandujs"
+  ],
 }
