@@ -1,22 +1,27 @@
 # ⚙️ My Dotfiles
 This repository contains the dotfiles, applications, and tools I use on my PC.
 
-## 💻 Computer
-| #       | Details |
-|---------|---------|
-| OS      | macOS Sequoia 15.2 |
+## 💻 Basics
+| #                | Details |
+|------------------|---------|
+| PC               | MacBook Air M1 2020 |
+| OS               | macOS Sequoia 15.2 |
+| External Storage | Samsung T7 Shield 1TB |
 
 ## 🎨 GUI Apps
 | Name          | Link |
 |---------------|------|
 | VS Code       |      |
+| TODO...       |      |
 
 ## 🧶 CLI Tools
-| #             | Quick Install | Link |
-|---------------|---------------|------|
-| Oh My ZSH     | `->` | https://ohmyz.sh/#installohmyzsh |
-| Flutter       | `->` | https://flutter.dev/docs/get-started/install/macos |
-| Battery       | `->` | https://github.com/actuallymentor/battery?tab=readme-ov-file#installation-1 |
+| #             | Quick Install         | Link |
+|---------------|-----------------------|------|
+| SCRCPY        | `brew install scrcpy` | https://github.com/Genymobile/scrcpy |
+| Oh My ZSH     | `->`                  | https://ohmyz.sh/#installohmyzsh |
+| Flutter       | `->`                  | https://flutter.dev/docs/get-started/install/macos |
+| Battery       | `->`                  | https://github.com/actuallymentor/battery?tab=readme-ov-file#installation-1 |
+| TODO...       | `->`                  | |
 
 
 ## 💾 How to backup?
